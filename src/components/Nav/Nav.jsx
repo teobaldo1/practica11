@@ -46,7 +46,7 @@ function Nav({ fnSubmit, fnClick, fnOnChange, dataOptions }) {
       </div>
       <div>
           <img
-            src="/public/nombrepokemon.webp"
+            src="/public/nombrepokemon.jpg"
             alt="imagen"
             className="title"
           />
